@@ -97,13 +97,13 @@ main =
 
             * Declarative & reactive, VDOM based
 
-            * Elm architecture ~= Redux state architecture
+            * Elm architecture ≈ Redux state architecture
 
             * Similar typing experience:
 
-              * TS interfaces ~= Elm record type aliases
+              * TS intersection types ≈ Elm records
 
-              * TS union & intersection types ~= Elm "custom types" (algebraic types)
+              * TS union types ≈ Elm custom types
             """
         , md
             """
@@ -152,7 +152,7 @@ main =
             """
         , md
             """
-            ## Elm architecture ~= Redux state architecture
+            ## Elm architecture ≈ Redux state architecture
 
             Redux + Redux Saga (left) vs Elm (right):
 
@@ -166,7 +166,7 @@ main =
             """
         , md
             """
-            ## Similar typing experience: TS interfaces ~= Elm record type aliases
+            ## Similar typing experience: TS intersection types ≈ Elm records
 
             TS:
 
@@ -193,7 +193,7 @@ main =
             """
         , md
             """
-            ## TS union & intersection types ~= Elm "custom types" (algebraic types)
+            ## TS union types ≈ Elm custom types
 
             TS:
 
